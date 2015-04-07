@@ -1,6 +1,6 @@
 name := "Brainerd"
  
-organization := "thomsonreuters.com"
+organization := "heinze.org"
  
 version := "0.1"
  
@@ -14,7 +14,6 @@ libraryDependencies ++= {
 "log4j" % "log4j" % "1.2.14",
 "commons-io" % "commons-io" % "2.1",
 "org.apache.commons" % "commons-compress" % "1.3",
-"org.testng" % "testng" % "6.1.1",
 "org.scalatest" % "scalatest_2.9.1" % "1.7.RC2",
 "org.neo4j" % "neo4j" % "1.8.M02",
 "me.prettyprint" % "hector-core" % "0.8.0-2",

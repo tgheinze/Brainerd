@@ -19,7 +19,7 @@
 
 
 
-    <appender name="MongoAppender" class="com.trgr.rd.util.logging.appenders.MongoAppender">
+    <appender name="MongoAppender" class="org.heinze.util.logging.appenders.MongoAppender">
         <param name="port" value="27017" />
         <param name="host" value="U0069724-MACB.local" />
         <param name="db" value="Rivet" />
